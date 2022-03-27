@@ -1,6 +1,7 @@
+import FirstFesture from "./components/FirstFesture";
 
 export default function App() {
   return (
-    <div>App</div>
+    <FirstFesture />
   )
 }
